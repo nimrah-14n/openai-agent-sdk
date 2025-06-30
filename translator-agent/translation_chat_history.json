@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "'how are you' meaning in urdu"
+  },
+  {
+    "role": "assistant",
+    "content": "The most common and straightforward translation of \"How are you?\" in Urdu is:\n\n**\u0622\u067e \u06a9\u06cc\u0633\u06d2 \u06c1\u06cc\u06ba\u061f (\u0100p kais\u0113 hain?)**\n\nThis is a formal way to ask.  For someone you know well, you could use:\n\n**\u06a9\u06cc\u0633\u06d2 \u06c1\u0648\u061f (Kais\u0113 ho?)**  (This is informal and uses the singular \"you\".)\n\nThere are other ways to express concern or inquire about someone's well-being, but these are the most direct equivalents.\n"
+  },
+  {
+    "role": "user",
+    "content": "'what are you doing' in turkish"
+  },
+  {
+    "role": "assistant",
+    "content": "The most common way to say \"What are you doing?\" in Turkish is:\n\n**Ne yap\u0131yorsun?** (neh ya-p\u0131-yo-sun?) - This is informal, used for someone you know well.\n\n**Ne yap\u0131yorsunuz?** (neh ya-p\u0131-yo-su-nuz?) - This is formal, used for someone you don't know well or someone older than you.  The only difference is the plural \"siz\" (you) instead of the singular \"sen\" (you).\n"
+  },
+  {
+    "role": "user",
+    "content": "hello' in chineas"
+  },
+  {
+    "role": "assistant",
+    "content": "The most common way to say \"hello\" in Mandarin Chinese is:\n\n**\u4f60\u597d (n\u01d0 h\u01ceo)**\n"
+  },
+  {
+    "role": "user",
+    "content": "rice in chineas"
+  },
+  {
+    "role": "assistant",
+    "content": "The most common word for rice in Chinese is **\u7c73 (m\u01d0)**.  However, this is a general term for rice.  When referring to cooked rice, you'd more commonly use  **\u996d (f\u00e0n)**.\n"
+  },
+  {
+    "role": "user",
+    "content": "this is in chineas"
+  },
+  {
+    "role": "assistant",
+    "content": "The most straightforward translation of \"This is...\" in Mandarin Chinese depends on what \"this\" refers to.  Here are a few options:\n\n* **\u8fd9\u662f... (zh\u00e8 sh\u00ec...)** - This is the most common way to say \"This is...\"  It's used for singular, near objects.  You would follow \"... \" with the noun. For example:  \u8fd9\u662f\u4e66 (zh\u00e8 sh\u00ec sh\u016b) - This is a book.\n\n* **\u8fd9\u4e9b\u662f... (zh\u00e8 xi\u0113 sh\u00ec...)** - This is used for plural, near objects.  For example: \u8fd9\u4e9b\u662f\u82f9\u679c (zh\u00e8 xi\u0113 sh\u00ec p\u00ednggu\u01d2) - These are apples.\n\n* **\u90a3\u662f... (n\u00e0 sh\u00ec...)** - This means \"That is...\" for singular, far objects.\n\n* **\u90a3\u4e9b\u662f... (n\u00e0 xi\u0113 sh\u00ec...)** - This means \"Those are...\" for plural, far objects.\n\n\nTherefore, to accurately translate \"This is...\" into Chinese, you need to specify what \"this\" refers to and whether it's singular or plural, and near or far.\n"
+  }
+]
